@@ -1,0 +1,11 @@
+"gender","race","parental_level_of_education","lunch","test_preparation","math_score","reading_score","writing_score","TOTAL"
+"female","group E","bachelor's degree","standard","none",100,100,100,300
+"female","group E","associate's degree","standard","none",100,100,100,300
+"male","group E","bachelor's degree","standard","completed",100,100,100,300
+"female","group E","bachelor's degree","standard","completed",99,100,100,299
+"female","group D","some college","standard","none",98,100,99,297
+"female","group D","some high school","standard","completed",97,100,100,297
+"male","group D","some college","standard","completed",100,97,99,296
+"female","group C","bachelor's degree","standard","completed",96,100,100,296
+"female","group E","master's degree","standard","completed",94,99,100,293
+"male","group E","associate's degree","free/reduced","completed",100,100,93,293
